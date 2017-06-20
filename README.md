@@ -15,4 +15,4 @@ E-mail: miklos.rona@gmail.com
 
 Tel.: +36 30 383-1183
 
-https://antarin.github.io/band
+Link: https://antarin.github.io/band
